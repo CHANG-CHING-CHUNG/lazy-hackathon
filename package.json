@@ -22,6 +22,8 @@
   },
   "dependencies": {
     "gulp": "^4.0.2",
-    "gulp-purifycss": "^0.2.0"
+    "gulp-purifycss": "^0.2.0",
+    "imagemin": "^7.0.1",
+    "imagemin-webp": "^6.0.0"
   }
 }
